@@ -1,0 +1,17 @@
+{   
+    "output": "out",
+    "author":"Fanfo & Hope",
+    "version":"0.1.0",
+    "resource_pack":{
+        "name":"utgard",
+        "description":"snc, utgard description",
+        "load":["rps/server", "rps/ODM.zip",
+        "rps/emojis.zip", "rps/SnC-RP.zip"],
+        "pack_format":42,
+        "zipped": true
+    },
+    "meta" : {
+        "message":"Hello"
+    },
+    "require": ["beet.contrib.optifine"]
+}
