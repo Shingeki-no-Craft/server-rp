@@ -6,7 +6,7 @@
         "name":"server",
         "description":"Official Rersourcepack",
         "load":["rps/server", "rps/ODM.zip",
-        "rps/emojis.zip","rps/ranks.zip", "rps/SnC-RP.zip"],
+        "rps/emojis.zip","rps/ranks", "rps/SnC-RP.zip"],
         "pack_format":42,
         "zipped": true
     },

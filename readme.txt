@@ -6,3 +6,6 @@
 5. To add ranks, create a custom font into /rps/server
 6. Convert the unicode using https://symbl.cc/en/search/?q=e000
 7. Paste the unicode into luckperms
+
+
+Ranks: https://modrinth.com/resourcepack/theranks
