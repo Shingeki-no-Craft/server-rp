@@ -9,7 +9,7 @@
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/bot.png",
+            "file": "theranks:ranks/storm.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
@@ -30,7 +30,7 @@
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/legendary.png",
+            "file": "theranks:ranks/dawn.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
