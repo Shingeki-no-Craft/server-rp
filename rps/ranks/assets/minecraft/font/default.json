@@ -30,7 +30,7 @@
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/dawn.png",
+            "file": "theranks:ranks/flame.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
