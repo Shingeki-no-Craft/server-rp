@@ -51,7 +51,7 @@
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/member.png",
+            "file": "theranks:ranks/scout.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
