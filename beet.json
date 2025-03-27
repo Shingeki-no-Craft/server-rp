@@ -4,7 +4,7 @@
     "version":"0.1.0",
     "resource_pack":{
         "name":"server",
-        "description":"Official Rersourcepack",
+        "description":"Official Resourcepack",
         "load":["rps/server", "rps/ODM.zip",
         "rps/emojis.zip","rps/ranks", "rps/SnC-RP.zip"],
         "pack_format":42,
