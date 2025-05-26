@@ -6,6 +6,13 @@
             "ascent": 30,
             "height": 64,
             "chars": ["\uC002"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon/ticket.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uD001"]
 	    }
     ]
 }

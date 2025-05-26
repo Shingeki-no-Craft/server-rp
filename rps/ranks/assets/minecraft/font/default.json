@@ -9,7 +9,7 @@
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/storm.png",
+            "file": "theranks:ranks/scout.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
@@ -30,28 +30,28 @@
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/flame.png",
+            "file": "theranks:ranks/maria.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/manager.png",
+            "file": "theranks:ranks/rose.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/merchant.png",
+            "file": "theranks:ranks/sina.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
 	    },
         {
             "type": "bitmap",
-            "file": "theranks:ranks/scout.png",
+            "file": "theranks:ranks/member.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
