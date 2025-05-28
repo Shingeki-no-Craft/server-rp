@@ -13,6 +13,13 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uD001"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon/discord.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uD002"]
 	    }
     ]
 }
