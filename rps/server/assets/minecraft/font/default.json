@@ -9,6 +9,20 @@
 	    },
         {
             "type": "bitmap",
+            "file": "minecraft:logos/gamemode/bastion.png",
+            "ascent": 27,
+            "height": 64,
+            "chars": ["\uC003"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logos/gamemode/gtw.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uC004"]
+	    },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/icon/ticket.png",
             "ascent": 8,
             "height": 8,
