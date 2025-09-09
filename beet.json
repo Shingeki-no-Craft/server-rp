@@ -7,7 +7,7 @@
         "description":"Official Resourcepack",
         "load":["rps/server", "rps/ODM.zip",
         "rps/emojis.zip","rps/ranks", "rps/SnC-RP.zip"],
-        "pack_format":42,
+        "pack_format":63,
         "zipped": true
     },
     "meta" : {
