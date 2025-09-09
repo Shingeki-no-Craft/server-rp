@@ -1,6 +1,1 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-	  "layer0": "custom/item/claim"
-	}
-}
+{"model": {"type": "minecraft:model", "model": "item/item/claim"}}
