@@ -1,0 +1,14 @@
+  {
+    "item.sniper.shoot": {
+      "sounds": [
+        "item/sniper/shoot"
+      ]
+    },
+    "block.turret.shoot": {
+      "sounds": [
+        "block/turret/shoot1",
+        "block/turret/shoot2",
+        "block/turret/shoot3"
+      ]
+    }
+  }

@@ -6,7 +6,7 @@
         "name":"server",
         "description":"Official Resourcepack",
         "load":["rps/server", "rps/ODM.zip",
-        "rps/emojis.zip","rps/ranks", "rps/SnC-RP.zip"],
+        "rps/emojis.zip","rps/ranks", "rps/SnC-RP.zip","rps/snc_battleship_event"],
         "pack_format":63,
         "zipped": true
     },
