@@ -1,0 +1,23 @@
+{ 
+  "snapline.actions": "Snapline",
+  "snapline.actions.subtitle": "Line Management",
+  "snapline.actions.desc": "Here you can create, modify and manage your",
+  "snapline.actions.desc.highlight": "Wire Lines",
+
+  "snapline.dg.create": "Create",
+  "snapline.dg.modify": "Modify",
+  "snapline.dg.select": "Select",
+  "snapline.dg.deselect": "Deselect",
+
+  "snapline.dg.modify.length": "Length",
+  "snapline.dg.modify.wide": "Width",
+  "snapline.dg.modify.yaw": "Yaw",
+  "snapline.dg.modify.pitch": "Pitch",
+
+  "snapline.load.installed": "is installed",
+  "snapline.load.author": "created by",
+
+  "snapline.line.not_found": "Line not found! You must select a line first."
+
+
+}
